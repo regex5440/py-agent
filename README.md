@@ -4,6 +4,7 @@ It uses Google Gemini flash that processes user prompt as coding agent with enti
 - Read Directory
 - Read File Content
 - Write File Content
+- Execute Python files
 
 ### Stack
 - Python (uv) + Google AI SDK
